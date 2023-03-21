@@ -18,5 +18,5 @@ ___
 2023.03~  https://breeghty.github.io/soyoung_portfolio_2023/
 
 ### Here is my Study Blog!
-liz52hz0322.tistory.com  ✏
+[liz52hz0322.tistory.com](https://liz52hz0322.tistory.com/)  ✏
 
