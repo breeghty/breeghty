@@ -1,7 +1,7 @@
 ## Hi, welcome to **SOYOUNG** 's github. 👋
 
-Hi, my name is Jo So Youn, living in South Korea. I'm Front-end Developer. I'interested in UI/UX too. 
-Always, I want to make something important and creative.
+Hi, my name is Jo So Youn, living in South Korea. I'm Front-end Developer. 
+I'm interested in UI/UX too. Always, I want to make something important and creative.
 
 ___
 ### My tech stack 📚
