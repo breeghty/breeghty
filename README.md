@@ -1,4 +1,4 @@
-<div align=center> <h1> 📌 Hi, welcome to **SOYOUNG** 's github. 👋</h1></div>
+<div align=center> <h1> 📌 Hi, welcome to SOYOUNG 's github. 👋</h1></div>
 
 <div align=center><h2>About Me 👩‍🦰</h2></div>
 <div align=center>Hi, my name is Jo So Young, living in South Korea. I'm Front-end Developer. <br>
@@ -35,7 +35,7 @@ I'm interested in UI/UX too. Always, I want to make something important and crea
 <div align=center><h2>Here is my Study Blog! 🧡</h2></div>
 <div align=center>
 
-  2022. 10~ 👉 [liz52hz0322.tistory.com](https://liz52hz0322.tistory.com/)  ✏
+  2022.10~ 👉 [liz52hz0322.tistory.com](https://liz52hz0322.tistory.com/)  ✏
 
 </div>
 
