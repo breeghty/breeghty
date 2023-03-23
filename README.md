@@ -1,11 +1,15 @@
-## Hi, welcome to **SOYOUNG** 's github. 👋
+<div align=center> <h1> 📌 Hi, welcome to **SOYOUNG** 's github. 👋</h1></div>
 
-Hi, my name is Jo So Youn, living in South Korea. I'm Front-end Developer. 
-I'm interested in UI/UX too. Always, I want to make something important and creative.
+<div align=center><h2>About Me 👩‍🦰</h2></div>
+<div align=center>Hi, my name is Jo So Young, living in South Korea. I'm Front-end Developer. <br>
+I'm interested in UI/UX too. Always, I want to make something important and creative.</div>
 
-___
-### My tech stack 📚
+<br>
 
+<div align=center><h2>My tech stack 📚</h2></div>
+
+<div align=center>
+  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
@@ -16,10 +20,22 @@ ___
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
+  
+</div>
 
-### My portfolio Web Site
-2023.03~  https://breeghty.github.io/soyoung_portfolio_2023/
+<br>
 
-### Here is my Study Blog!
-[liz52hz0322.tistory.com](https://liz52hz0322.tistory.com/)  ✏
+<div align=center><h2>My portfolio Web Site 💛</h2></div>
+<div align=center>
+2023.03~ 👉  https://breeghty.github.io/soyoung_portfolio_2023/
+</div>
+
+<br>
+
+<div align=center><h2>Here is my Study Blog! 🧡</h2></div>
+<div align=center>
+
+  2022. 10~ 👉 [liz52hz0322.tistory.com](https://liz52hz0322.tistory.com/)  ✏
+
+</div>
 
