@@ -8,6 +8,7 @@ I'm interested in UI/UX too. Always, I want to make something important and crea
 
 <div align=center>
   <h3>SO YOUNG'S side project account 👩‍🦰✨</h3>
+  👉 <a href="https://github.com/soySoSoy">Here!</a>
   <p>I contribute to <a href="https://ayyb.github.io/mbti/">💙MBTI TEST💙</a> from 2023. 03. 24</p>
 </div>
   
