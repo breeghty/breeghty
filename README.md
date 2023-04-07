@@ -1,7 +1,7 @@
 <div align=center> <h1> 📌 Hi, welcome to SOYOUNG 's github. 👋</h1></div>
 
 <div align=center><h2>About Me 👩‍🦰</h2></div>
-<div align=center>Hi, my name is Jo So Young, living in South Korea. I'm Front-end Developer. <br>
+<div align=center>Hi, my name is Jo So Young, living in South Korea. I'm Front-end/Mark Up Developer.(Publisher) <br>
 I'm interested in UI/UX too. Always, I want to make something important and creative.</div>
 
 <br>
