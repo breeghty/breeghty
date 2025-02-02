@@ -35,12 +35,6 @@ I'm interested in UI/UX too. Always, I want to make something important and crea
 
 <br>
 
-<div align=center><h2>My portfolio Web Site 💛</h2></div>
-<div align=center>
-2023.03~ 👉  https://breeghty.github.io/soyoung_portfolio_2023/
-</div>
-
-<br>
 
 <div align=center><h2>Here is my Study Blog! 🧡</h2></div>
 <div align=center>
